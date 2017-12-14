@@ -1,3 +1,4 @@
+[GIT SPECIFIC]
 gi: init
 gs: status
 ga: add
@@ -8,3 +9,6 @@ gp: push -u
 gpf: push -f
 gr: remote
 
+[NON GIT SPECIFIC]
+t/poke: touch
+make: mkdir
